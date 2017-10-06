@@ -1,0 +1,434 @@
+c:\users\jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+c:\users\jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+c:\users\jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+c:\users\jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\Jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\Jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\Jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\Jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\Jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+C:\Users\Jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\Jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\Jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\Jonathan\documents\visual studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdNovaOP.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdNovaOP.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\TEMP.LABINF.031\Desktop\PROJETO SOFT CELCO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdNovaOP.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\felipehaack\Desktop\PROJETO SOFT CELCO-ED1\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\Jonathan\Desktop\PROJETO-SOFT-CELCO-OK\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+F:\FATEC-SP\ENGENHARIA\SOFTWARE\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovaFormula.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\Jonathan\Documents\Visual Studio 2015\Projects\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovaFormula.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\Micro\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmNovaFormula.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumo.resources
+C:\Users\Jonathan\Desktop\wfaCelco (2)\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoVincula.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumo.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoVincula.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovaFormula.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRelatorios.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoAltera.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoAltera.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumo.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoVincula.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoque.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmLocais.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmSuporte.resources
+E:\FATEC-SP\ENGENHARIA\SOFTWARE\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidoNovo.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoAltera.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumo.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoVincula.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidoNovo.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmSuporte.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoqueProd.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosAlterar.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosNovo.resources
+C:\Users\Jonathan\Desktop\MAIS ATUALIZADO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoAltera.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoAltera.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumo.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoVincula.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoqueProd.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidoNovo.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosAlterar.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosNovo.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoAltera.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmSuporte.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\Gabriel\Downloads\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoAltera.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumo.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoVincula.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoqueProd.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidoNovo.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosAlterar.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosNovo.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoAltera.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmSuporte.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\Note\Desktop\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoAltera.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumo.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoVincula.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoqueProd.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidoNovo.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosAlterar.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosNovo.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoAltera.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmSuporte.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+E:\SOFT CELCO FINAL [07-12-2016]\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoAltera.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumo.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoVincula.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoqueProd.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidoNovo.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosAlterar.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosNovo.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoAltera.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmSuporte.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\TEMP.LABINF.067\Desktop\SOFT CELCO FINAL [07-12-2016]\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe.config
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.exe
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\bin\Debug\wfaCelco.pdb
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoAltera.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmAlterarFormula.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmCadastroCli.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmClientes.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumo.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmConsumoVincula.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmEstoqueProd.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmFormulas.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmInicial.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidoNovo.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmNovoProduto.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidos.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosAlterar.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmPedidosNovo.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducao.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoAltera.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProducaoNovaOP.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmProdutos.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursoNovo.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmRecursos.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmSuporte.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.UI.frmTelaPrincipal.resources
+C:\Users\Jonathan\Desktop\SOFT-CELCO-FINAL-DE-TODOS-SUPREMO\wfaCelco\wfaCelco\obj\Debug\wfaCelco.csproj.GenerateResource.Cache

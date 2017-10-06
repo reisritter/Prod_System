@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9670393C-B6E1-4F13-B5C2-61EE5818C630}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>wfaCelco</RootNamespace>
+    <AssemblyName>wfaCelco</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\AlterarPedidoBLL.cs" />
+    <Compile Include="BLL\AltFormBLL.cs" />
+    <Compile Include="BLL\ClienteBLL.cs" />
+    <Compile Include="BLL\ConsumoBLL.cs" />
+    <Compile Include="BLL\EstoqueBLL.cs" />
+    <Compile Include="BLL\FormulasBLL.cs" />
+    <Compile Include="BLL\ItemFormBLL.cs" />
+    <Compile Include="BLL\ItemPedidoBLL.cs" />
+    <Compile Include="BLL\PedidoBLL.cs" />
+    <Compile Include="BLL\PedidosBLL.cs" />
+    <Compile Include="BLL\ProducaoBLL.cs" />
+    <Compile Include="BLL\ProdutosBLL.cs" />
+    <Compile Include="BLL\RecursosBLL.cs" />
+    <Compile Include="celcoDataSet.cs">
+      <DependentUpon>celcoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="celcoDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>celcoDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="celcoDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>celcoDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\AcessoBD.cs" />
+    <Compile Include="DAL\ClientesDAL.cs" />
+    <Compile Include="DAL\EstoqueDAL.cs" />
+    <Compile Include="DAL\globalDAL.cs" />
+    <Compile Include="DAL\PedidoDAL.cs" />
+    <Compile Include="DAL\ProdutosDAL.cs" />
+    <Compile Include="DTO\ConsumoDTO.cs" />
+    <Compile Include="DTO\FormulasDTO.cs" />
+    <Compile Include="DTO\ItemFormDTO.cs" />
+    <Compile Include="DTO\ItemPedidoDTO.cs" />
+    <Compile Include="DTO\ItemProdDTO.cs" />
+    <Compile Include="DTO\ItemRecDTO.cs" />
+    <Compile Include="DTO\PedidosDTO.cs" />
+    <Compile Include="DTO\ProducaoDTO.cs" />
+    <Compile Include="DTO\ProdutosDTO.cs" />
+    <Compile Include="DTO\RecursosDTO.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmConsumoAltera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmConsumoAltera.Designer.cs">
+      <DependentUpon>frmConsumoAltera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmAlterarFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmAlterarFormula.designer.cs">
+      <DependentUpon>frmAlterarFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmCadastroCli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmCadastroCli.Designer.cs">
+      <DependentUpon>frmCadastroCli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmConsumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmConsumo.designer.cs">
+      <DependentUpon>frmConsumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmConsumoVincula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmConsumoVincula.Designer.cs">
+      <DependentUpon>frmConsumoVincula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmEstoqueProd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmEstoqueProd.designer.cs">
+      <DependentUpon>frmEstoqueProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmFormula.designer.cs">
+      <DependentUpon>frmFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmInicial.designer.cs">
+      <DependentUpon>frmInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmNovaFormula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmNovaFormula.designer.cs">
+      <DependentUpon>frmNovaFormula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmNovoProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmNovoProduto.designer.cs">
+      <DependentUpon>frmNovoProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmPedidos.designer.cs">
+      <DependentUpon>frmPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmPedidosAlterar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmPedidosAlterar.Designer.cs">
+      <DependentUpon>frmPedidosAlterar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmPedidosNovo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmPedidosNovo.Designer.cs">
+      <DependentUpon>frmPedidosNovo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmProducao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmProducao.designer.cs">
+      <DependentUpon>frmProducao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmProducaoAltera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmProducaoAltera.designer.cs">
+      <DependentUpon>frmProducaoAltera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmProducaoNovaOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmProducaoNovaOP.designer.cs">
+      <DependentUpon>frmProducaoNovaOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmProdutos.designer.cs">
+      <DependentUpon>frmProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmRecursoNovo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmRecursoNovo.designer.cs">
+      <DependentUpon>frmRecursoNovo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmRecursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmRecursos.designer.cs">
+      <DependentUpon>frmRecursos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmSuporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmSuporte.Designer.cs">
+      <DependentUpon>frmSuporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\frmTelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\frmTelaPrincipal.designer.cs">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmConsumoAltera.resx">
+      <DependentUpon>frmConsumoAltera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmAlterarFormula.resx">
+      <DependentUpon>frmAlterarFormula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmCadastroCli.resx">
+      <DependentUpon>frmCadastroCli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmConsumo.resx">
+      <DependentUpon>frmConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmConsumoVincula.resx">
+      <DependentUpon>frmConsumoVincula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmEstoqueProd.resx">
+      <DependentUpon>frmEstoqueProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmFormula.resx">
+      <DependentUpon>frmFormula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmInicial.resx">
+      <DependentUpon>frmInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmNovaFormula.resx">
+      <DependentUpon>frmNovaFormula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmNovoProduto.resx">
+      <DependentUpon>frmNovoProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmPedidos.resx">
+      <DependentUpon>frmPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmPedidosAlterar.resx">
+      <DependentUpon>frmPedidosAlterar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmPedidosNovo.resx">
+      <DependentUpon>frmPedidosNovo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmProducao.resx">
+      <DependentUpon>frmProducao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmProducaoAltera.resx">
+      <DependentUpon>frmProducaoAltera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmProducaoNovaOP.resx">
+      <DependentUpon>frmProducaoNovaOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmProdutos.resx">
+      <DependentUpon>frmProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmRecursoNovo.resx">
+      <DependentUpon>frmRecursoNovo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmRecursos.resx">
+      <DependentUpon>frmRecursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmSuporte.resx">
+      <DependentUpon>frmSuporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\frmTelaPrincipal.resx">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="celcoDataSet.xsc">
+      <DependentUpon>celcoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="celcoDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>celcoDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="celcoDataSet.xss">
+      <DependentUpon>celcoDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="celcoDataSet1.xsc">
+      <DependentUpon>celcoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="celcoDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>celcoDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="celcoDataSet1.xss">
+      <DependentUpon>celcoDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-01-WF.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document-Exchange-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer New.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lista.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Basket-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BASKET_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
